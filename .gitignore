@@ -131,3 +131,4 @@ dmypy.json
 
 ##########
 physionet.org/
+*.hdf
