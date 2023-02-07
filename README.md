@@ -16,8 +16,8 @@ In this project you will analyse from a physics perspective time series of human
 
 ### Data sources
 1. [Fantasia](https://physionet.org/content/fantasia/1.0.0/)
-2. [Heart Rate Oscillations during Meditation](https://physionet.org/content/meditation/1.0.0/)
-3. [Sudden Cardiac Death Holter Database](https://physionet.org/content/sddb/1.0.0/)
+2. [Normal Sinus Rhythm Database](https://www.physionet.org/content/nsrdb/1.0.0/)
+3. [Congestive Heart Failure Database](https://physionet.org/content/chfdb/1.0.0/)
 
 ### Members of Group 2
 * [Tommaso Bertola](https://github.com/tommaso-bertola)
